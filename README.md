@@ -50,7 +50,7 @@
 ⚡ MCU-8bit: PIC18F18K22, PIC18F27K42, PIC18F45K22, PIC18F47Q84, PIC18F57K42,...<br>
 ⚡ MCU-32bit: ESP8266, ESP32, LPC1768, ...<br> 
 ⚡ SBC: RPI Zero(W), RPI 3B, RPI 4B, RPI 5, Pico.<br> 
-⚡ Arduino modules.  
+⚡ Arduino modules...  
 </p>
 </div> 
 <div style="flex: 0 0 20%;"> 
